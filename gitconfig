@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = alessandro.rinaldi989@gmail.com
+	name = Alessandro Rinaldi
